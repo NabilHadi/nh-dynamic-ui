@@ -1,0 +1,19 @@
+{
+  "name": "nh-dynamic-ui",
+  "version": "1.0.0",
+  "description": "simple utilites for creating dynamic ui",
+  "main": "dyanmic-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabilHadi/nh-dynamic-ui.git"
+  },
+  "author": "Nabil Hadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NabilHadi/nh-dynamic-ui/issues"
+  },
+  "homepage": "https://github.com/NabilHadi/nh-dynamic-ui#readme"
+}
