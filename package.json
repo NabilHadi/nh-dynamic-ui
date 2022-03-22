@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "simple utilites for creating dynamic ui",
   "main": "dyanmic-ui.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
